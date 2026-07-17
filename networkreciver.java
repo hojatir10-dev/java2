@@ -1,4 +1,4 @@
-.package com.example.smartstudent;
+package com.example.smartstudent;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
