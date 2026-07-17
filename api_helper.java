@@ -1,4 +1,4 @@
-.package com.example.smartstudent;
+package com.example.smartstudent;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
